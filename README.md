@@ -7,5 +7,9 @@ Solo is a creative project that was mainly a practice in writing elementary HTML
 
 1- Open the "index.html" file in the browser.  
 
+# Demo: 
+
+https://ethandow.github.io/index.html/ 
+
 
 Enjoy. 
