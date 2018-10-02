@@ -1,3 +1,4 @@
+![personal project](https://github.com/EthanDow/solo/blob/master/Capture.PNG)
 # Solo
 
 
