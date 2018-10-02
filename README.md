@@ -1,7 +1,7 @@
 # Solo
 
 
-Solo is a creative project that was mainly a practice in using HTML, CSS and Javascript. 
+Solo is a creative project that was mainly a practice in writing elementary HTML, CSS and Javascript code. 
 
 # To see the project: 
 
