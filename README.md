@@ -9,7 +9,6 @@ Solo is a creative project that was mainly a practice in writing elementary HTML
 
 # Demo: 
 
-https://ethandow.github.io/index.html/ 
-
+https://ethandow.github.io/solo/
 
 Enjoy. 
