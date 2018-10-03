@@ -7,6 +7,6 @@ Solo is a creative personal project that was mainly a practice in writing some e
 # To see the project: 
 
 - Open the "index.html" file in the browser.  
-- Or check visit this link https://ethandow.github.io/solo/ to see the ####demo. 
+- Or check visit this link https://ethandow.github.io/solo/ to see a demo. 
 
 Enjoy. 
