@@ -6,7 +6,7 @@ Solo is a creative personal project that was mainly a practice in writing some e
 
 # To see the project: 
 
-1- Open the "index.html" file in the browser.  
+- Open the "index.html" file in the browser.  
 
 # Demo: 
 
